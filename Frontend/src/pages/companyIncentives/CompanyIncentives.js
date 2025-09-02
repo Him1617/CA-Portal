@@ -7,7 +7,7 @@ import stackedge from '../../images/stackEdge.jpeg'
 function CompanyIncentives() {
   return (
     <div className={styles.container}>
-        <h1 className={styles.heading}>Gifts From Our Partners</h1>
+        <h1 className={styles.heading}>Gifts From himanshu</h1>
         <div className={styles.cardContainer}>
 <div className={styles.card}>
   <div className={styles.content}>

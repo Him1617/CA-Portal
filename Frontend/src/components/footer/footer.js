@@ -91,7 +91,7 @@ function Footer() {
             </ul>
           </div>
           <div className={classes.copy}>
-            <h3> <span>&copy;</span> KSHITIJ IIT KHARAGPUR. ALL RIGHTS RESERVED</h3>
+            <h3> &copy; KSHITIJ IIT KHARAGPUR. ALL RIGHTS RESERVED</h3>
           </div>
         </div>
       </div>
